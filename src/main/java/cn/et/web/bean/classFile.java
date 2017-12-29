@@ -1,5 +1,5 @@
 package cn.et.web.bean;
-
+//
 public class classFile {
     private String id;
     private String name;
